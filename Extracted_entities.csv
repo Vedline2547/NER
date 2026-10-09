@@ -1,0 +1,13 @@
+Entity,Label,Explanation
+Amazon,ORG,"Companies, agencies, institutions, etc."
+"July 30,2023",DATE,Absolute or relative dates or periods
+Andy Jassy,PERSON,"People, including fictional"
+$ 4 billion,MONEY,"Monetary values, including unit"
+AI,ORG,"Companies, agencies, institutions, etc."
+Google,ORG,"Companies, agencies, institutions, etc."
+Mountain View,GPE,"Countries, cities, states"
+California,GPE,"Countries, cities, states"
+2024,DATE,Absolute or relative dates or periods
+Olympics,EVENT,"Named hurricanes, battles, wars, sports events, etc."
+Paris,GPE,"Countries, cities, states"
+France,GPE,"Countries, cities, states"
